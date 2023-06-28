@@ -8,6 +8,6 @@ public class MainApp {
         // Ejercicio 1
         // EjercicioUno.ImprimirTiposDatos();
         // Ejercicio 2
-        System.out.println(EjercicioDos.CalcularPrecioIva(12.3D));
+        EjercicioDos.PedirPrecio();
     }
 }
